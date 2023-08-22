@@ -17,6 +17,8 @@ export default function RootLayout({
 }) {
   const sutu = "sutu"
   const concuasutu = "son"
+  const ga = "ga"
+  const ga1 = 1
   return (
     <html lang="en">
       <body className={inter.className}>
