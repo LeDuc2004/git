@@ -15,6 +15,8 @@ export default function RootLayout({
 }: {
   children: React.ReactNode;
 }) {
+  const sutu = "sutu"
+  const concuasutu = "son"
   return (
     <html lang="en">
       <body className={inter.className}>
