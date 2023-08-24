@@ -19,6 +19,9 @@ export default function RootLayout({
   const concuasutu = "son"
   const ga = "ga"
   const ga1 = 1
+  const feature3 = 3.1
+  const feature32 = 3.2
+  const feature33 = 3.3
   const feature4 = 4
   return (
     <html lang="en">
