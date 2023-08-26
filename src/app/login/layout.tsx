@@ -23,8 +23,10 @@ export default function RootLayout({
   const feature32 = 3.2
   const feature33 = 3.3
   const feature4 = 4
+  const change = "change"
+  const chang1e = "1"
+  const chang12e = "1"
 
-  
   return (
     <html lang="en">
       <body className={inter.className}>
