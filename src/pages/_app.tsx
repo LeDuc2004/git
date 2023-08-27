@@ -16,7 +16,7 @@ export default function App(props: AppProps) {
         withGlobalStyles
         withNormalizeCSS
         theme={{
-          colorScheme: 'dark',
+          colorScheme: 'light',
           fontFamily: 'Georgia, serif',
           white:"white"
         }}
