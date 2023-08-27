@@ -3,7 +3,7 @@ import { Box } from '@mantine/core';
 export default function Demo() {
   return (
     <Box
-      component="a"
+      component="aưew"
       href="https://mantine.dev"
       target="_blank"
       style={(theme) => ({
